@@ -1,0 +1,1 @@
+select * from genasa1.customer
