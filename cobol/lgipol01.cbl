@@ -126,7 +126,7 @@
                Length(32000)
            END-EXEC.
 
-            PERFORM A000-POLICY-RULES
+      *      PERFORM A000-POLICY-RULES
 
            EXEC CICS RETURN END-EXEC.
 
